@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>5_1 Mirtha</title>
+	<title>5_2 Mirtha</title>
 	<style>
 table {
     width:40%;
